@@ -259,3 +259,14 @@ body {
   border-radius: 12px;
   text-align: center;
 }
+
+/* === MEDIA QUERY MOBILE CHI TIẾT === */
+@media screen and (max-width: 400px) {
+  #menu h1 { font-size: 1.8rem; }
+  #menu button { font-size: 0.95rem; padding: 0.5rem 1rem; }
+  #text { font-size: 0.95rem; }
+  #nameBox { font-size: 0.85rem; padding: 2px 6px; }
+  .choiceBtn { font-size: 0.85rem; min-width: 180px; padding: 6px 14px; }
+  #character { height: 65%; }
+  #dialogueBox { height: 28vh; padding: 0.5rem; }
+}

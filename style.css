@@ -268,5 +268,5 @@ body {
   #nameBox { font-size: 0.85rem; padding: 2px 6px; }
   .choiceBtn { font-size: 0.85rem; min-width: 180px; padding: 6px 14px; }
   #character { height: 65%; }
-  #dialogueBox { height: 28vh; padding: 0.5rem; }
+  #dialogueBox { height: 30vh; padding: 0.5rem; }
 }
